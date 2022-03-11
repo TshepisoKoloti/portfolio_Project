@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"MY PORTFOLIO",
-    "description":"I am highly driven Business analyst and software engineer graduate  and i have high level of commitment when it comes to designing and developing software projects. I would like to be a developer at sovtech company because i believe that sovtech is a leading company in Technology industry and I  believe that sovtech is a mission driven company which hold the values I believe in, it will be great if i become one of sovtech Team",
+    "description":"I am highly driven Business analyst and software engineer graduate  and i have high level of commitment when it comes to designing and developing software projects.I always believed in  a mission driven company, i am seeking for a IT internship or graduate programme opportunity in order to gain enough experience ",
     "image":"Tshepiso.jpg",
     "bio":"Tshepiso koloti is an upcoming software developer and Business analyst who believes in the art of Technology organization. He is a recent graduate from the Tshwane University Of Technology and focused on Software development and Business analysis during his time studying there. He was introduced to the magical world of Technology by spending enough time coding and developing some of his school projects  and has been working towards his dream of becoming a software engineer ever since.",
     "contactmessage":"Get in touch with me.",
@@ -24,11 +24,6 @@
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/tshepiso-koloti-512709196/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -78,13 +73,18 @@
         "level":"40%"
       },
       {
-        "name":"R",
+        "name":"Javascript",
         "level":"35%"
       },
       {
-        "name":"BLOCKLY",
-        "level":"30%"
+        "name":"Css",
+        "level":"70%"
       },
+      {
+        "name": "Html",
+        "level": "75%"
+      }
+      ,
 
       {
         "name":"C++",
