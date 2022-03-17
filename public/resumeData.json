@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"MY PORTFOLIO",
+    "name":"PORTFOLIO",
     "description":"I am highly driven Business analyst and software engineer graduate  and i have high level of commitment when it comes to designing and developing software projects.I always believed in  a mission driven company, i am seeking for a IT internship or graduate programme opportunity in order to gain enough experience ",
     "image":"Tshepiso.jpg",
     "bio":"Tshepiso koloti is an upcoming software developer and Business analyst who believes in the art of Technology organization. He is a recent graduate from the Tshwane University Of Technology and focused on Software development and Business analysis during his time studying there. He was introduced to the magical world of Technology by spending enough time coding and developing some of his school projects  and has been working towards his dream of becoming a software engineer ever since.",
@@ -8,10 +8,10 @@
     "email": "Tshepisokoloti9@gmail.com",
     "phone": "071 239 0260 | 068 0065025",
     "address":{
-      "street":"(20 HONEY STREET)",
-      "city":"(JOHANNESBURG)",
-      "state":"(GAUTENG)",
-      "zip": "(2198)"
+      "street":"20 HONEY STREET",
+      "city":"JOHANNESBURG",
+      "state":"GAUTENG",
+      "zip": "2198"
     },
     "social":[
       {
@@ -53,7 +53,7 @@
     "work":[
       {
         "company":"ekhonnector systems",
-        "title":"junior software | business analyst",
+        "title":"software developer| business analyst",
         "years":"20 april 2021 - 20 september 2021",
         "description":"Design user interfaces,architect login structures,analyzing the systems and testing the systems, database integration and design and Writing system documentation,gathering system requirements and writing a daily report for Systems."
       }
